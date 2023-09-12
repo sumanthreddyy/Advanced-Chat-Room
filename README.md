@@ -4,21 +4,21 @@ A python based chat room.
 Running The Scripts
 The steps required to run the programs are as follows and how the program works
 
-Step 1: Locate command prompt in your windows machine or terminal in others
+#Step 1: Locate command prompt in your windows machine or terminal in others
 ![image](https://github.com/sumanthreddyy/Advanced-Chat-Room/assets/85357787/89ba1873-91df-4e74-9147-9d22ebbab556)
 
-Step 2: Open multiple command prompts for multiple clients and one server
+#Step 2: Open multiple command prompts for multiple clients and one server
 ![image](https://github.com/sumanthreddyy/Advanced-Chat-Room/assets/85357787/8ea08b74-13b7-4703-bbf3-b732ed71b78a)
 
-Step 3: Locate the file program files in your computer after saving them and use Linux commands (cd) to 
+#Step 3: Locate the file program files in your computer after saving them and use Linux commands (cd) to 
 	go to the required repository
 ![image](https://github.com/sumanthreddyy/Advanced-Chat-Room/assets/85357787/57962ed4-656c-4d3f-b4c0-7ed9ae95fd19)
 
-Step 4:  Run the programs with the command Python followed by the name of the program 
+#Step 4:  Run the programs with the command Python followed by the name of the program 
 	Ex: python server.py
 ![image](https://github.com/sumanthreddyy/Advanced-Chat-Room/assets/85357787/0f11cc90-0677-44dc-b9a8-610ee233a131)
 
-Step 5:  Run the server program in command window and multiple client programs in other command
+#Step 5:  Run the server program in command window and multiple client programs in other command
 	Prompts windows.Choose the nicknames and admin is a pre-defined nickname, when entered will
 request for a  Password which is set in the program.
 ![image](https://github.com/sumanthreddyy/Advanced-Chat-Room/assets/85357787/19ad47b6-fed7-4935-845d-314d5f24a88e)
